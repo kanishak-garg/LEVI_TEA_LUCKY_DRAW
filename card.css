@@ -162,3 +162,40 @@ h2 {
 h1 {
   color: red;
 }
+
+#logo {
+  position: absolute;
+  top: 5%;
+  left: 0%;
+}
+#logo2 {
+  position: absolute;
+  top: 5%;
+  right: 0%;
+}
+
+#logo3 {
+  position: absolute;
+  top: 33%;
+  right: 0%;
+}
+#logo4 {
+  position: absolute;
+  top: 33%;
+  left: 0%;
+}
+#logo5 {
+  position: absolute;
+  top: 66%;
+  right: 0%;
+}
+#logo6 {
+  position: absolute;
+  top: 66%;
+  left: 0%;
+}
+
+img {
+  height: 200px;
+  width: 400px;
+}
